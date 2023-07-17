@@ -1,6 +1,6 @@
 # REDIS PUB/SUB
 
-A redis pub/sub implementation in order to evaluate regular redis pub/sub vs redis streams.
+A redis pub/sub implementation in order to evaluate redis [pub/sub](https://redis.io/docs/interact/pubsub/) vs [redis streams](https://redis.io/docs/data-types/streams/).
 
 ## Redis
 Run redis in docker:
